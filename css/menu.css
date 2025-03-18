@@ -1,0 +1,66 @@
+.hid_desc {
+    color: white;
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+    font-size: 25px;
+}
+
+.hid01 {
+    margin: 240px 0px 0px 245px;
+}
+
+.hid02 {
+    margin: 0px 0px -110px 245px;
+}
+
+.hid03 {
+    margin: 0px 0px 0px 245px;
+}
+
+.hid04 {
+    margin: 65px 0px -85px 755px;
+}
+
+.hid05 {
+    margin: 10px 0px 0px 755px;
+}
+
+
+.hid06 {
+    margin: 25px 0px -160px 475px;
+}
+
+.hid07 {
+    margin: 8px 0px -32px 1425px;
+}
+
+.hid08 {
+    margin: 25px 0px 0px 1335px;
+}
+
+.hid09 {
+    margin: 15px 0px -10px 1448px;
+}
+
+.hid10 {
+    margin: 5px 0px -30px 1355px;
+}
+
+.hid11 {
+    margin: 0px 0px 0px 1505px;
+}
+
+.text-style {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+    margin-left: 10px;
+    text-align: left;
+}
+
+body {
+    background: url("./../assets/aerea.jpg") no-repeat center center fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+}
